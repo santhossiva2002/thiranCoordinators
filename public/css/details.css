@@ -1,0 +1,55 @@
+/* #e1f4fe light blue*/
+/* #481099 violet */
+/* #6673f0 dark blue*/
+
+
+
+body{
+  background-color:#6673f0 ;
+  margin: 0% !important;
+  padding: 0% !important;
+}
+
+#title{
+margin-left: 5px;
+padding: 5px;
+}
+
+#title #head-text{
+text-decoration: none;
+margin-left: 7px;
+font-weight: 500 !important;
+color: black !important;
+background-color: white;
+padding: 5px 21px;
+border: 2px solid white;
+border-radius: 15px;
+box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+}
+
+.custom-header{
+border-radius: 25px;
+}
+.navB{
+border-radius: 25px;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dropdown-menu-right {
+  right: 0;
+  left: auto;
+}
+
+#details{
+  background-color: white;
+}
+
+.navbar-nav .nav-item .dropdown-menu .dropdown-item:hover {
+  background-color: #6673f0; /* Change to the desired hover color */
+  color: white; /* Change to the desired text color */
+}
